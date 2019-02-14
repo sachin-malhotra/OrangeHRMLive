@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.orangehrmlive_Rough_Scripts.LoginLogoutPractice"/>
+      <class name="com.orangehrmlive_Rough_Scripts.ScrollPage"/>
+      <class name="com.orangehrmlive_employee_scripts.CountAllTextBoxesTC_103"/>
+      <class name="com.orangehrmlive_employee_scripts.AddEmployeeTC_102"/>
+      <class name="com.orangehrmlive_user_scripts.LoginLogoutTC_101"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
